@@ -2,8 +2,8 @@
 
 ## Student information
 
-Name: **REPLACE THIS WITH YOUR NAME**
+Name: Saud Alotaibi
 
 In one sentence, what is the difference between Git and GitHub?
 
-**REPLACE THIS SENTENCE**
+Git records local history, Github hosts repositories online
